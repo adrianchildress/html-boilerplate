@@ -1,0 +1,32 @@
+body {
+    background: #d9d9e0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    background: #b3b2cc;
+    border-width: medium;
+    border-style: solid;
+    border-radius: 1em;
+    border-color: #9795ba;
+}
+
+.flex-container div {
+    background: #b3b2cc;
+}
+
+.head {
+    margin: 1%;
+    padding: 1%;
+}
+
+ul {
+    background: #9695a3;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 1em;
+    overflow: auto;
+}
+
+/* colors to be used: 9695a3 */
